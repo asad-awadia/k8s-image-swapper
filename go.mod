@@ -3,7 +3,7 @@ module github.com/estahn/k8s-image-swapper
 go 1.12
 
 require (
-	github.com/alitto/pond v1.4.0
+	github.com/alitto/pond v1.5.1
 	github.com/aws/aws-sdk-go v1.38.47
 	github.com/containers/image/v5 v5.11.0
 	github.com/dgraph-io/ristretto v0.1.0
